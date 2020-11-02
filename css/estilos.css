@@ -13,9 +13,9 @@ body {
 }
 
 .hero {
-    background-image: linear-gradient(120deg, rgba(241, 147, 251, 0.699) 0%, rgba(85, 27, 35, 0.692) 100%), url("../img/logo.jpeg");
+    background-image: linear-gradient(120deg, rgba(255, 128, 0, 0.49) 100%, rgba(85, 27, 35, 0.692) 0%), url("../img/logo.jpeg");
     width: 100%;
-    height: 650px;
+    height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -78,7 +78,7 @@ body {
     font-weight: 300;
     font-size: 35px;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .titulo.left {
@@ -98,22 +98,22 @@ body {
 }
 
 .website img {
-    width: 48%;
+    width: 1%;
 }
 
 .website .contenedor-textos-main {
-    width: 40%;
+    width: 4%;
 }
 
 .parrafo {
     text-align: justify;
-    margin-bottom: 20px;
+    margin-bottom: 2px;
 }
 
 .cta {
     display: inline-block;
     text-decoration: none;
-    background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+    background-image: linear-gradient(45deg, #FFA500 0%, #fad0c4 99%, #fad0c4 100%);
     padding: 12px 15px;
     border-radius: 8px;
     color: #fff;
@@ -123,8 +123,8 @@ body {
 /* Info */
 
 .info {
-    background: #f5576c;
-    color: #fff;
+    background: #FFA500;
+    color: #000000;
 }
 
 
@@ -154,14 +154,14 @@ body {
 
 .card i {
     margin: 30px 0 20px 0;
-    color: #cc9199;
+    color: #FFA500;
     font-size: 50px;
 }
 
 .card p {
     font-weight: 300;
     font-size: 25px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 
@@ -211,7 +211,7 @@ body {
 /* footer */
 
 footer {
-    background: #f5576c;
+    background: #FFA500;
     color: #fff;
 }
 
