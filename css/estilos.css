@@ -17,7 +17,7 @@ body {
 /*Estilo para el encabezado*/
 
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), url("C:/JS_LandingPage/Ferreteria39_RB/img/logo.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), url(".../img/logo.jpeg");
     background-size: cover;
     background-position: center;
     padding: /*arriba:*/
